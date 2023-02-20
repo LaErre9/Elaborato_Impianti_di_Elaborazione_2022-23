@@ -17,6 +17,6 @@ Antonio Romano, Giuseppe Riccio, Umberto Pier Rosario Caturano
 ## Progetto realizzato per soli scopi dimostrativi ed educativi
 La seguente trattazione è mirata alla realizzazione degli Homeworks realizzati durante il corso di Impianti di Elaborazione (A.A 2022/2023) all'Università degli Studi di Napoli Federico II. <br>
 <br>
-:warning: **ATTENZIONE**, Gli Homeworks **POSSONO** comprendere errori! pertanto è *consigliato* per prendere appunti, spunto e consultazioni. ASSOLUTAMENTE SCONSIGLIATO FARE IL COPIA-INCOLLA, poi se volete, fatelo pure :satisfied:
+:warning: **ATTENZIONE**, Gli Homeworks **POSSONO** contenere errori! pertanto è *consigliato* per prendere appunti, spunto e consultazioni. ASSOLUTAMENTE SCONSIGLIATO FARE IL COPIA-INCOLLA, poi se volete, fatelo pure :satisfied:
 <br><br>
 :warning: **ATTENZIONE**, Nella seguente trattazione è stato **SPERIMENTATO** l'uso nella trascrizione e nella realizzazione di script di :computer: [ChatGPT](https://github.com/openai/).
